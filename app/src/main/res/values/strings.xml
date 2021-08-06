@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kotlinTask1</string>
+    <string name="name_btn_test">test</string>
+</resources>
